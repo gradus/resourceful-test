@@ -1,12 +1,12 @@
-# See the habits of a dolphin
+# Verifying an issue #65 with Resourceful
 
 ## Usage
 
-    git clone https://gradus@github.com/gradus/dolphin-habits
-    cd dolphin-habits
+    git clone https://gradus@github.com/gradus/resourceful-test
+    cd resourceful-test
     npm start
 
 note: if you do not have couchDB running with a database named
-'dolphins', it will fail.
+'users', it will fail.
  
 
